@@ -20,6 +20,8 @@
       width: 390px;
       background-color: #ff9d73;
       height: 100%;
+
+      margin-top: 50px;
   }
   /* 위로 여유가 30픽셀 정도 있었으면 좋겠네 */
 
@@ -87,16 +89,16 @@
       color: white;
   }
   #image1 {
-      background-image: url('images/img1.png');
+      background-image: url('images2/img1.png');
   }
   #image2 {
-      background-image: url('images/img2.png');
+      background-image: url('images2/img2.png');
   }
   #image3 {
-      background-image: url('images/img3.png');
+      background-image: url('images2/img3.png');
   }
   #image4 {
-      background-image: url('images/img4.png');
+      background-image: url('images2/img4.png');
   }
  
   .video {
